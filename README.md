@@ -1,2 +1,2 @@
-# barbeariaAlura
-site criado com o curso de Html e CSSda Alurafornceido pelasensedia
+# barbeariaalura
+Projeto de site fictício barbearia Alura.
